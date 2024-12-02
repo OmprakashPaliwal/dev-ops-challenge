@@ -1,7 +1,5 @@
 # Devops Challenge
-
 # Assignment 1
-
 This assignment is to create an AWS CDN for your static content website which you have to host on S3 bucket with domain name (https://devopschallenge.postfix.in)
 
 Case A. If the user opens (https://devopschallenge.postfix.in) it should be seen "Hello, CDN origin is working fine"
